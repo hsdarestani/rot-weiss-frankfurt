@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rot-weiss-frankfurt.pages.dev/sitemap.xml
